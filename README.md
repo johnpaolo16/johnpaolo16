@@ -31,13 +31,18 @@
 2021 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
-<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ff5f32baaabbf8e47ee3b3408b411686a1f27b49" ><br>Understanding Data Engineering</a> <br>
-                   Data Camp<br>
-                   </center></p>
-
 <p align ="left"><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4781363&trackId=OCI23AIFCA&key=c9c8e6001463f4b9f5fee31e2bb08a53f2734ae3" ><br>Oracle Certified Foundations Associate</a> <br>
                    Oracle<br>
                    </center></p>
+                   
+<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ff5f32baaabbf8e47ee3b3408b411686a1f27b49" ><br>Understanding Data Engineering</a> <br>
+                   Data Camp<br>
+                   </center></p>
+<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7e803557c87f44a8e81a0264a1515d8e07fb9e70" ><br>Introduction to ChatGPT</a> <br>
+                   Data Camp<br>
+                   </center></p>
+
+
 
 
                   
