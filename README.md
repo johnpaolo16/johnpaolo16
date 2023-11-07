@@ -35,6 +35,14 @@
                    Data Camp<br>
                    </center></p>
 
+<h1 align="left">Certifications</h1>
+<p align ="left"><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4781363&trackId=OCI23AIFCA&key=c9c8e6001463f4b9f5fee31e2bb08a53f2734ae3" ><br>Oracle Certified Foundations Associate</a> <br>
+                   Oracle<br>
+                   </center></p>
+
+
+                  
+
 <h1 align="left">Seminars</h1>
 <p align ="left">
 
