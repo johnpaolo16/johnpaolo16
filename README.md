@@ -12,6 +12,7 @@
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
     </a>
    
+
 </p>
 
 
@@ -41,7 +42,9 @@
 <p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7e803557c87f44a8e81a0264a1515d8e07fb9e70" ><br>Introduction to ChatGPT</a> <br>
                    Data Camp<br>
                    </center></p>
-
+<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/78a9c216d70c1098d6179873911a97894c1cb85c" ><br>Introduction to SQL</a> <br>
+                   Data Camp<br>
+                   </center></p>
 
 
 
