@@ -32,7 +32,7 @@
 2021 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
-<p align ="left"><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4781363&trackId=OCI23AIFCA&key=c9c8e6001463f4b9f5fee31e2bb08a53f2734ae3" ><br>Oracle Certified Foundations Associate</a> <br>
+<p align ="left"><a href="[https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4781363&trackId=OCI23AIFCA&key=c9c8e6001463f4b9f5fee31e2bb08a53f2734ae3](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2051A7FE52E2270F11B5EE56D5A6AEA5DB9739DC40287FA6CAEAF8BEC57E9329)" ><br>Oracle Certified Foundations Associate</a> <br>
                    Oracle<br>
                    </center></p>
                    
