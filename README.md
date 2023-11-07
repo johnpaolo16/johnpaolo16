@@ -45,7 +45,9 @@
 <p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/78a9c216d70c1098d6179873911a97894c1cb85c" ><br>Introduction to SQL</a> <br>
                    Data Camp<br>
                    </center></p>
-
+<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/28609f11d9f8da7cc75ca832eb339f34ac46e2a8" ><br>Introduction to Python</a> <br>
+                   Data Camp<br>
+                   </center></p>
 
 
                   
