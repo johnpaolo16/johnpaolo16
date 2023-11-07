@@ -39,6 +39,9 @@
 <p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ff5f32baaabbf8e47ee3b3408b411686a1f27b49" ><br>Understanding Data Engineering</a> <br>
                    Data Camp<br>
                    </center></p>
+<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d010a1aaad36c745f55d8589ea71ff46407ba59e" ><br>Understanding Data Science</a> <br>
+                   Data Camp<br>
+                   </center></p>                   
 <p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7e803557c87f44a8e81a0264a1515d8e07fb9e70" ><br>Introduction to ChatGPT</a> <br>
                    Data Camp<br>
                    </center></p>
